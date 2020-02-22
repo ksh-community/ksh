@@ -1,0 +1,21 @@
+# Project specific files
+=
+arch
+bin/execrate*
+tgz
+lcl
+lib/package/CONVERT.mk
+
+# Misc artifacts
+*.bak
+*.sav
+*.old
+*.orig
+.*.swp
+*.DS_Store
+*~
+.nfs*
+*.tmp
+*.rej
+*.project
+core
